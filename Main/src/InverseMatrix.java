@@ -1,4 +1,4 @@
-public class Main {
+public class InverseMatrix {
     public static void main(String[] args) {
 
         int[][] matrix = {{1, 2, 3},
