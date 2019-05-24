@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28969cb0-d7a3-469f-8297-5ea098b4f6ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Main/src/AnagramString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,19 +18,35 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Main/src/DeleteDuplicatesFromArray.java">
+        <entry file="file://$PROJECT_DIR$/Main/src/RockPaperScissors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main/src/AnagramString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Main/src/MatrixMultiplication.java">
+        <entry file="file://$PROJECT_DIR$/Main/src/BucketSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+            <state relative-caret-position="749">
+              <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1297#1298#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -61,6 +78,10 @@
         <option value="$PROJECT_DIR$/Main/src/DeleteDuplicated.java" />
         <option value="$PROJECT_DIR$/Main/src/DeleteDuplicatesFromArray.java" />
         <option value="$PROJECT_DIR$/Main/src/MatrixMultiplication.java" />
+        <option value="$PROJECT_DIR$/Main/src/CeasarCipher.java" />
+        <option value="$PROJECT_DIR$/Main/src/RockPaperScissors.java" />
+        <option value="$PROJECT_DIR$/Main/src/AnagramString.java" />
+        <option value="$PROJECT_DIR$/Main/src/BucketSort.java" />
       </list>
     </option>
   </component>
@@ -137,23 +158,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MatrixMultiplication">
-    <configuration name="AllPermutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AllPermutations" />
+  <component name="RunManager" selected="Application.BucketSort">
+    <configuration name="AnagramString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnagramString" />
       <module name="Java Tasks" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeleteDuplicatesFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DeleteDuplicatesFromArray" />
+    <configuration name="BucketSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BucketSort" />
       <module name="Java Tasks" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindClosest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindClosest" />
+    <configuration name="CeasarCipher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CeasarCipher" />
       <module name="Java Tasks" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -166,27 +187,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZigZag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ZigZag" />
+    <configuration name="RockPaperScissors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RockPaperScissors" />
       <module name="Java Tasks" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FindClosest" />
-      <item itemvalue="Application.ZigZag" />
-      <item itemvalue="Application.AllPermutations" />
-      <item itemvalue="Application.DeleteDuplicatesFromArray" />
+      <item itemvalue="Application.AnagramString" />
+      <item itemvalue="Application.BucketSort" />
+      <item itemvalue="Application.CeasarCipher" />
       <item itemvalue="Application.MatrixMultiplication" />
+      <item itemvalue="Application.RockPaperScissors" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BucketSort" />
+        <item itemvalue="Application.AnagramString" />
+        <item itemvalue="Application.RockPaperScissors" />
+        <item itemvalue="Application.CeasarCipher" />
         <item itemvalue="Application.MatrixMultiplication" />
-        <item itemvalue="Application.DeleteDuplicatesFromArray" />
-        <item itemvalue="Application.AllPermutations" />
-        <item itemvalue="Application.ZigZag" />
-        <item itemvalue="Application.FindClosest" />
       </list>
     </recent_temporary>
   </component>
@@ -216,8 +237,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32925585" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39979655" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32925585" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39959225" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -299,8 +320,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Main/src/MatrixMultiplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+        <state relative-caret-position="45">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/src/CeasarCipher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/src/RockPaperScissors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/src/AnagramString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/src/BucketSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="749">
+          <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1297#1298#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
