@@ -1,5 +1,4 @@
 public class ReverseWords {
-    static  int age;
     public static void main(String[] args) {
         String text = "Java is programing language";
         System.out.println(alternatingSort(text));
