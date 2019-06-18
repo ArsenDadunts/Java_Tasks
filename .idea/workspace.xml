@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="28969cb0-d7a3-469f-8297-5ea098b4f6ef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/src/ReverseWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main/src/ReverseWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Tasks/ReverseWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Tasks/ReverseWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/src/ZigZag.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main/src/ZigZag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Tasks/ZigZag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Tasks/ZigZag.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +18,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Main/src/ReverseWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            <state relative-caret-position="15">
+              <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Main/src/ZigZag.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="15" column="30" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -33,6 +45,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -49,7 +62,6 @@
         <option value="$PROJECT_DIR$/ReverseMatrix/src/Main.java" />
         <option value="$PROJECT_DIR$/Main/src/FindPairWhoseSumIsClosestToX.java" />
         <option value="$PROJECT_DIR$/Main/src/FindClosest.java" />
-        <option value="$PROJECT_DIR$/Main/src/ZigZag.java" />
         <option value="$PROJECT_DIR$/Main/src/AllPermutations.java" />
         <option value="$PROJECT_DIR$/Main/src/DeleteDuplicated.java" />
         <option value="$PROJECT_DIR$/Main/src/DeleteDuplicatesFromArray.java" />
@@ -66,8 +78,12 @@
         <option value="$PROJECT_DIR$/Main/src/FindTheLongestPalindromicSubstring.java" />
         <option value="$PROJECT_DIR$/Main/src/InsertionSort.java" />
         <option value="$PROJECT_DIR$/Main/src/MergeSort.java" />
-        <option value="$PROJECT_DIR$/Main/src/ReverseWords.java" />
         <option value="$PROJECT_DIR$/Main/src/ad.java" />
+        <option value="$PROJECT_DIR$/Main/src/Printabel.java" />
+        <option value="$PROJECT_DIR$/Main/src/Print.java" />
+        <option value="$PROJECT_DIR$/Main/src/Prinat.java" />
+        <option value="$PROJECT_DIR$/Main/src/ReverseWords.java" />
+        <option value="$PROJECT_DIR$/Main/src/ZigZag.java" />
       </list>
     </option>
   </component>
@@ -83,7 +99,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,7 +127,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,14 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="FindLargestAndSmallestElementInUnsortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindLargestAndSmallestElementInUnsortedArray" />
-      <module name="Java Tasks" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MergeStrings">
     <configuration name="FindTheLongestPalindromicSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindTheLongestPalindromicSubstring" />
       <module name="Java Tasks" />
@@ -166,8 +175,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveAllWhiteSpaceFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RemoveAllWhiteSpaceFromString" />
+    <configuration name="MergeStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeStrings" />
       <module name="Java Tasks" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -180,20 +189,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ZigZag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZigZag" />
+      <module name="Java Tasks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.FindLargestAndSmallestElementInUnsortedArray" />
-      <item itemvalue="Application.RemoveAllWhiteSpaceFromString" />
       <item itemvalue="Application.FindTheLongestPalindromicSubstring" />
       <item itemvalue="Application.InsertionSort" />
       <item itemvalue="Application.ReverseWords" />
+      <item itemvalue="Application.ZigZag" />
+      <item itemvalue="Application.MergeStrings" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeStrings" />
+        <item itemvalue="Application.ZigZag" />
         <item itemvalue="Application.ReverseWords" />
         <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.FindTheLongestPalindromicSubstring" />
-        <item itemvalue="Application.RemoveAllWhiteSpaceFromString" />
-        <item itemvalue="Application.FindLargestAndSmallestElementInUnsortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +230,7 @@
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27418464" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29076838" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -223,12 +239,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32925585" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32925585" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39959225" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31294596" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3058104" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32925585" />
@@ -247,18 +263,6 @@
     <entry file="file://$PROJECT_DIR$/KnapsackProblem/src/Test.java" />
     <entry file="file://$PROJECT_DIR$/KnapsackProblem/src/Knapsack.java" />
     <entry file="file://$PROJECT_DIR$/Main/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2475" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Main/src/ZigZag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Main/src/DeleteDuplicatesFromArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -396,17 +400,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Main/src/ad.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Main/src/ad.java" />
+    <entry file="file://$PROJECT_DIR$/Main/src/Printabel.java" />
+    <entry file="file://$PROJECT_DIR$/Main/src/Prinat.java" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Main/src/ReverseWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        <state relative-caret-position="15">
+          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/src/ZigZag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
